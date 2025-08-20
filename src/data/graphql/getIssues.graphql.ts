@@ -13,6 +13,7 @@ export const getIssuesGraphQL = `
         title
         number
         closedAt
+        stateReason
         url
         repository {
           name

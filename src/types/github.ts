@@ -79,6 +79,7 @@ export interface GitHubIssue extends GitHubIssueBase {
   title: string
   number: number
   closedAt: string | null
+  stateReason: string | null
   url: string
   repository: GitHubRepository
   milestone: GitHubMilestone | null
