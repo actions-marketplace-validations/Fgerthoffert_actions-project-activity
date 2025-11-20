@@ -45,7 +45,7 @@
     "graphql-tag": "^2.12.6",
     "mingo": "^6.6.0",
     "sqlite3": "^5.1.7",
-    "yaml": "^2.7.1"
+    "yaml": "^2.8.1"
   },
   "devDependencies": {
     "@eslint/compat": "^1.2.8",
